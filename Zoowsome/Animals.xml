@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><content>
+<ANIMAL>
+	<nrOfLegs>8</nrOfLegs>
+	<name></name>
+	<maintenanceCost>4.0</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<canFly>true</canFly>
+	<isDangerous>false</isDangerous>
+	<DISCRIMINANT>BUTTERFLY</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>8</nrOfLegs>
+	<name></name>
+	<maintenanceCost>4.0</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<canFly>true</canFly>
+	<isDangerous>false</isDangerous>
+	<DISCRIMINANT>BUTTERFLY</DISCRIMINANT>
+</ANIMAL>
+</content>
